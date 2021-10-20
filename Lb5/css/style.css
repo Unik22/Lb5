@@ -1,1 +1,46 @@
- 
+ .page{
+    border: 3px solid;
+ }
+ .photo{
+    display: flex;
+ }
+.picter{
+   margin: 10px;
+   border: 3px solid;
+   width: 100%;
+   height: 348px;
+}
+.picter2{
+   margin: 10px;
+   border: 3px solid;
+   width: 100%;
+   height: 348px;
+}
+.pictert1{
+   
+   width: 100%;
+}
+.pictert2{
+   width: 100%;
+   height: 100%;
+}
+.textrr{
+   display: flex;
+}
+.menu{
+   margin: 10px;
+   border: 3px solid;
+   width: 100%;
+   height: 348px;
+}
+.text{
+   margin: 10px;
+   border: 3px solid;
+   width: 100%;
+   height: 348px;
+}
+.picter3{
+   float: left;
+   width: 35%;
+   height: 70%;
+}
